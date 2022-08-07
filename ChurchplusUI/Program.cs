@@ -1,7 +1,6 @@
 using Application.Interfaces;
 using Application.Services;
 using ChurchplusUI.MappingConfig;
-using DependencyInject.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using Persistence.Context;
 using Persistence.Repositories;
